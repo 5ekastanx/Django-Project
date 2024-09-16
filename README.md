@@ -26,7 +26,7 @@ manage.py: Командная утилита Django
 ## Установка
 Клонируйте репозиторий:
 
-git clone https://github.com/5ekastanx/django-project.git
+git clone https://github.com/5ekastanx/Django-Project.git
 Перейдите в папку проекта:
 
 cd my_first_pj_django/project_django
